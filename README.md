@@ -6,7 +6,7 @@ NoteForgeHub is a single space where you can think, write, and plan. Capture tho
 
 ## 🌐 Live Website
 
-- The application is live and hosted on Vercel. You can access it [here](https://noteforgehub.vercel.app/).
+- The application is live and hosted on Vercel. You can access it [here](https://supernotehub.vercel.app/).
 
 ## 📸 Screenshot
 
